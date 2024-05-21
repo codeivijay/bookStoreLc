@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeivijay/bookStoreLc.git"
+  },
+  "keywords": [
+    "book",
+    "store",
+    "by",
+    "llc"
+  ],
+  "author": "Vijay Singh Diggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeivijay/bookStoreLc/issues"
+  },
+  "homepage": "https://github.com/codeivijay/bookStoreLc#readme",
+  "description": ""
+}
